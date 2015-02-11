@@ -20,5 +20,8 @@
   },
   "scripts": {
     "test": "node test.js"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
   }
 }
